@@ -617,13 +617,3 @@ a.current::after {
 	align-items: center;
 	cursor: pointer;
 }
-
-@keyframes fadeIn {
-	0% {
-		opacity: 0;
-	}
-
-	100% {
-		opacity: 1;
-	}
-}
